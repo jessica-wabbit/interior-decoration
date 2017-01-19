@@ -1,0 +1,12 @@
+img.col {
+  width: 250px;
+  text-align: center;
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
